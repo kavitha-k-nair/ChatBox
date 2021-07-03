@@ -8,3 +8,10 @@ the other user that the person has left. (working on updates)
 
 ## Connections
 A peer-to-peer network through socket connection(using Socket module), where any user amongst the two can request(receive) or respond(send) meassages.
+
+## Output
+Welcome Screen
+![Welcome Screen](https://user-images.githubusercontent.com/86179075/124355182-88b2f280-dc2d-11eb-95f2-f086d727f9e7.jpg)
+
+Chat Screen
+![Chat Screen](https://user-images.githubusercontent.com/86179075/124355220-ac763880-dc2d-11eb-824c-6ce9b35fe6d8.jpg)
